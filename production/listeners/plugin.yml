@@ -1,0 +1,5 @@
+name: JoinName
+version: 1.0
+author: xela
+main: me.xela.listeners.Main
+description: a simple plugin that welcomes userwith a costumisable barebones config file

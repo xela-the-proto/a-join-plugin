@@ -1,0 +1,12 @@
+#####################################
+#                                   #
+#                                   #
+#     Made by xela with love <3     #
+#                                   #
+#                                   #
+#####################################
+
+#simply put here what the server should broadcast ona first join
+firstJoinMessage: '&a<player> &7has joined the server for the first time! have fun!'
+#here you can put a message when a user who already did a first join joins again
+joinMessage: '&a<player> &7has joined the server'
